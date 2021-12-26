@@ -1,0 +1,2 @@
+2021-12-26 13:59:05,097 - main - Logs.py[line:33] - INFO - log test----------
+2021-12-26 14:01:30,236 - main - Logs.py[line:33] - INFO - log test----------
